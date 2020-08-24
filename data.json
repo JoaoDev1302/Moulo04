@@ -1,6 +1,28 @@
 {
-  "members":[],
-  
+  "members": [
+    {
+      "id": 2,
+      "avatar_url": "https://scontent.frao1-1.fna.fbcdn.net/v/t1.0-9/p960x960/116423494_152822063075609_8529806117838627939_o.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=pS2faW6LkfEAX__5TLM&_nc_ht=scontent.frao1-1.fna&_nc_tp=6&oh=135a179f8e5dd57e623928d43c2ea069&oe=5F47B436",
+      "name": "Amanda Ferreira",
+      "email": "joao.vf2009@hotmail.com",
+      "birth": 735177600000,
+      "gender": "F",
+      "blood": "B+",
+      "weight": "88",
+      "height": "170"
+    },
+    {
+      "id": 3,
+      "avatar_url": "http://lms.com.br",
+      "name": "João Victor Ferreira ",
+      "email": "joao_dev@outlook.com.br",
+      "birth": 950400000000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "80",
+      "height": "173"
+    }
+  ],
   "instructors": [
     {
       "avatar_url": "https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/98600183_4450570274968593_2866003299771875328_n.jpg?_nc_cat=105&_nc_sid=85a577&_nc_ohc=bA7KurK12RMAX-XAAhd&_nc_ht=scontent-gru2-2.xx&oh=e593bc656b91ebf46f7708c99ea9629b&oe=5F514B3B",
